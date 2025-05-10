@@ -1,6 +1,6 @@
 # Utilities of Joseph Chierichella
 
-A curated collection of personal command-line tools, scripts, and system utilities developed by Joseph Chierichella. This repository serves as a toolbox for enhancing productivity, automating tasks, and improving system workflows across Linux environments.
+This repository is full of short programs that I made on my free time. I am putting all my work in my repository so that others can learn with my work.
 
 ## Copyright and Usage
 
