@@ -1,6 +1,6 @@
 
 
-# Copyright (c) 2025 Joseph Chierichella | All rights reserved.
+# Copyright (c) 2025 Joseph Chierichella | All rights reserved
 
 
 def addition():
