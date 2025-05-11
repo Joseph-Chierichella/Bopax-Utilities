@@ -2,11 +2,6 @@
 
 Thanks for your interest in contributing! Here’s how you can help.
 
-c++/atm1.cpp
-Error when depositing and withdrawing large quanity of $
-
-
-
 ---
 
 ## 🚀 Getting Started
