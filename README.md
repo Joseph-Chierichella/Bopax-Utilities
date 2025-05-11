@@ -8,7 +8,7 @@ All scripts and utilities in this repository are the intellectual property of Jo
 
 If you use or modify this code, please ensure proper attribution to the original author.
 
-© Joseph Chierichella | All rights reserved.
+© Joseph Chierichella | All rights reserved
 
 ## Contributions
 
