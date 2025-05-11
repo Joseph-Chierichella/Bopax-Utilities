@@ -1,4 +1,4 @@
-# Utilities of Joseph Chierichella
+# Bopax Utilities
 
 This repository is full of short programs that I made on my free time. I am putting all my work in my repository so that others can learn with my work.
 

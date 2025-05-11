@@ -1,4 +1,4 @@
-# Contributing to The Utilities of Joseph Chierichella
+# Contributing to Bopax Utilities
 
 Thanks for your interest in contributing! Here’s how you can help.
 
