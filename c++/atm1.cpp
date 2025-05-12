@@ -1,5 +1,3 @@
-
-
 // Copyright (c) 2025 Joseph Chierichella | All rights reserved
 
 // Error when depositing and withdrawing large quanity of $
