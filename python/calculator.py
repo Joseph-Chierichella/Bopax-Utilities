@@ -1,7 +1,4 @@
-
-
 # Copyright (c) 2025 Joseph Chierichella | All rights reserved
-
 
 def addition():
     add1 = int(input("Enter the first number : "))
