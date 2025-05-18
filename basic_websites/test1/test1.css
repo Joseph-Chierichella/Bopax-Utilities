@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Courier New;
+}
+
+.container {
+  padding: 20px;
+  border: 2px solid white;
+}
+
