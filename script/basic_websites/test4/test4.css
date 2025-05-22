@@ -1,0 +1,35 @@
+body{
+    background-color: Black;
+    color: green;
+    font-family: Courier New;
+}
+
+.inputdiv {
+    background-color: Black;
+    color: Green;
+    font-family: Courier New;
+}
+
+#inputbox1 {
+    background-color: Black;
+    color: Green;
+    font-family: Courier New;
+    border: 1px solid green; 
+
+}
+
+#button1 {
+    background-color: Black;
+    color: Green;
+    font-family: Courier New;
+}
+
+#outputbox1 {
+    background-color: Black;
+    font-family: Courier New;
+    color: green;
+    border: 1px solid green;
+    width: 450px;
+    height: 175px;
+
+}

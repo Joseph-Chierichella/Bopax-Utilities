@@ -12,4 +12,4 @@ If you use or modify this code, please ensure proper attribution to the original
 
 ## Contributions
 
-Contributions are welcome! Please feel free to fork the repository, make improvements, and submit pull requests. Ensure all changes align with the project’s goals and follow best practices for code quality and documentation.
+Contributions are welcome! Please feel free to fork the repository, make improvements, and submit pull requests. Ensure all changes align with the project’s goals and follow best practices for code quality and documentation. 
