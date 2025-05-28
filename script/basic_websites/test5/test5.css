@@ -1,0 +1,43 @@
+body
+{
+	background-color: Black;
+	color: Green;
+	font-family: Courier New;
+}
+
+#run1
+{
+	background-color: Black;
+	color: Green;
+	font-family: Courier New;
+	cursor: pointer;
+}
+
+#input1
+{
+	background-color: Black;
+	color: Green;
+	font-family: Courier New;
+	border: none;
+	font-size: 24;
+	margin-left: -10px;
+}
+
+#cStart
+{
+	font-size 24;
+}
+
+#text1
+{
+	background-color: Black;
+	color: Green;
+	font-family: Courier New;
+}
+
+#clearButton
+{
+	background-color: Black;
+	color: Green;
+	font-family: Courier New;
+}
