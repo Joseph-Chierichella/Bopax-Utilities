@@ -1,7 +1,5 @@
 # Copyright (c) 2025 Joseph Chierichella | All rights reserved
 
-import random
-
 class notez:
     def __init__(self):
         self.all = []
